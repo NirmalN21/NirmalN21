@@ -1,13 +1,6 @@
 # Hi there 👋 I'm Nirmal Nehra
 ### A passionate Full Stack Developer on a mission to craft delightful and robust web experiences.
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nirmal</h1></summary>
-  </ul>
-</div>
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
