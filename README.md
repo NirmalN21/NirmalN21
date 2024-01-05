@@ -1,4 +1,12 @@
 # Hi there 👋 I'm Nirmal Nehra
+
+<!--profile visit count-->
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=NirmalN21&color=green)
+  
+</div>
+
 ### A passionate Full Stack Developer on a mission to craft delightful and robust web experiences.
 
 <!--h2 without bottom border-->
@@ -48,13 +56,6 @@
 
 </p>
 
-
-<!--profile visit count-->
-<div align="center">
-  
-![](https://komarev.com/ghpvc/?username=NirmalN21&color=green)
-  
-</div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
