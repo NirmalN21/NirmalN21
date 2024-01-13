@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Nirmal Nehra
 
-<!--profile visit count-->
+<!--profile visit count--->
 <div align="center">
   
 ![](https://komarev.com/ghpvc/?username=NirmalN21&color=green)
