@@ -20,7 +20,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **MERN Stack (MongoDB, Express, React, Nodejs)**
 
-- 🌱 I’m currently learning **WebRTC and React-Native**
+- 🌱 I’m currently learning **WebRTC** and **React-Native**
 
 - 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
 
