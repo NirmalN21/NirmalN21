@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **WebRTC** and **React-Native**
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 💬 Ask me about **AWS, React, React-native, Nodejs, MongoDB**
 
 - 📫 Feel free to reach me out **nirmalnehra.nn@gmail.com**
 <!--Intro end-->
