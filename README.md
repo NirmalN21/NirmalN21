@@ -48,7 +48,7 @@ A Node.js rule engine (20% faster, 90% less code), PDF generation moved to a Pup
 ### 📫 Say hi
 
 <p>
-  <a href="https://www.linkedin.com/in/nirmal-kumar-637048226/"><img src="assets/badge-linkedin.svg" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/nirmal-nehra-637048226/"><img src="assets/badge-linkedin.svg" alt="LinkedIn"/></a>
   <a href="mailto:nirmalnehra.nn@gmail.com"><img src="assets/badge-email.svg" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=NirmalN21&color=7b2cbf&style=for-the-badge&label=profile+views" alt="Profile views"/>
 </p>
